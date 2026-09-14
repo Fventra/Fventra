@@ -29,9 +29,11 @@ Like IC,
 Control System,
 Embeed System,
 and AI.
-This four can collaborate each other
-and this four is some weakness in 
-my country, Indonesia.
+I so interested on how these fields can
+work each other and i believe,
+these field have will have big growth and impact
+in the future,
+especially in Indonesia
 
 ## But currently,
 i'm learning about, like
@@ -41,32 +43,32 @@ some mini project and want to have more of it for sure,
 currently i am learning Python through CS50 and FreeCodeCamp
 ## Basic use of AI and how to implement it,
 Gemini, ChatGPT, and Claude is main focus for me
-to maximize this LLM and to boost my performance
-in booth learning something and build product.
+to maximize this LLM and to boost my learning some skill process
+and help me make somethings more efficiently
 ## English,
 yeah, you hear it right,
-to connect to cool people from global
-and collaborate through it.
-i've tried to write, read, and listen more
-from english to make me more familiar
+connect with cool people around the world
+and collaborate globally.
+i've trying to write, read, listen, communicate more
+with english to make me more confortable using this
 ## basic science
-for my TPB grade and
-have good logical thinking.
+i want to strengthening my fondation in Basic Science through TPB
+for build my logical and analytical thinking
 
-
-## Not just that,
+## Beyond these technical skills,
 communication,
 public speaking, 
 work on the team,
-etc
+etc,
 Will be important and crucial for my career growth
-like how me to tell and explain my ideas.
+as technical skills.
+like how me to tell and explain my ideas clearly.
 
-## Feel free to contact me at
+## Feel free
+to contact me at
 Fventra at Github
 Afine Bonaventura Sihaloho at LinkedIn
-if you want collab or ask me something
+if you'd like to collaborate, disscus about project,
+ask to somethings, or just want to connect.
 
-## You can contact me if want some collab
-## See youuu
 
